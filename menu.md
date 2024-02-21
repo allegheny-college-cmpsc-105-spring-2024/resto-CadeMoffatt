@@ -7,15 +7,14 @@ nav: true
 
 ## menu
 
-this is the menu
+this is our menu
 
-- TODO: add at least 1 menu item. Be as descriptive as possible to get a good review!
-- TODO: make sure the menu item has at least one image
 
 ### menu item 1
 
-#### lettuce
+#### Bacon Cheeseburger
+Our Bacon Cheeseburger comes with lettuce, tomato, and a few strips of our delicous applewood smoked bacon. 
 
-- price: $100
+- price: $10
 
-![lettuce](assets/images/magnifying-glass-logo.jpeg){:width="200"}
+![lettuce](assets/images/Bacon_Cheeseburger.JPG){:width="200"}
