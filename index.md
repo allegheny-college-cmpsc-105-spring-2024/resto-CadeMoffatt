@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "about"
+title: "About"
 ---
 
 Hello! Welcome to Bobby Mo's, where we serve up classic American food with a side of nostalgia. Step inside and take a seat at our cozy booths or grab a stool at the counter for a taste of the good ol' days.
